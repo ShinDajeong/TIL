@@ -24,3 +24,4 @@ TIL : Today I Learned 💻📚
 - [BOJ_2805_나무자르기](https://github.com/ShinDajeong/TIL/blob/main/Algorithm/BOJ_2805_%EB%82%98%EB%AC%B4%EC%9E%90%EB%A5%B4%EA%B8%B0.java)
 - [PROG_42583_다리를지나는트럭](https://github.com/ShinDajeong/TIL/blob/main/Algorithm/PROG_42583_%EB%8B%A4%EB%A6%AC%EB%A5%BC%EC%A7%80%EB%82%98%EB%8A%94%ED%8A%B8%EB%9F%AD.java)
 - [PROG_42842_카펫](https://github.com/ShinDajeong/TIL/blob/main/Algorithm/PROG_42842_%EC%B9%B4%ED%8E%AB.java)
+- [BOJ_20055_컨베이어벨트위의로봇](https://github.com/ShinDajeong/TIL/blob/main/Algorithm/BOJ_20055_%EC%BB%A8%EB%B2%A0%EC%9D%B4%EC%96%B4%EB%B2%A8%ED%8A%B8%EC%9C%84%EC%9D%98%EB%A1%9C%EB%B4%87.java)
