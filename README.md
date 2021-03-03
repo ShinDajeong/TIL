@@ -12,6 +12,12 @@ TIL : Today I Learned 💻📚
 - [Hello Vue.js](https://github.com/ShinDajeong/TIL/blob/main/Vue.js/01_Hello_Vue.js.md)
 - [Vue : Single File Component와 router](https://github.com/ShinDajeong/TIL/blob/main/Vue.js/02_Vue_SFC_Router.md)
 
+
+#### Operating System
+
+- [운영체제의 개념](https://github.com/ShinDajeong/TIL/blob/main/Operating%20System/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C(OS%3B%20Operating%20System).md)
+- [프로세스 관리](https://github.com/ShinDajeong/TIL/blob/main/Operating%20System/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4(Procss).md)
+
 #### Algorithm
 
 - [BOJ 10816 숫자카드2](https://github.com/ShinDajeong/TIL/blob/main/Algorithm/BOJ_10816_%EC%88%AB%EC%9E%90%EC%B9%B4%EB%93%9C2.java)
