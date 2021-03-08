@@ -18,6 +18,8 @@ TIL : Today I Learned 💻📚
 - [운영체제의 개념](https://github.com/ShinDajeong/TIL/blob/main/Operating%20System/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C(OS%3B%20Operating%20System).md)
 - [프로세스 관리](https://github.com/ShinDajeong/TIL/blob/main/Operating%20System/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4(Procss).md)
 - [기억장치 관리](https://github.com/ShinDajeong/TIL/blob/main/Operating%20System/%EA%B8%B0%EC%96%B5%EC%9E%A5%EC%B9%98%20%EA%B4%80%EB%A6%AC.md)
+- [로더](https://github.com/ShinDajeong/TIL/blob/main/Operating%20System/%EB%A1%9C%EB%8D%94(Loader).md)
+- [운영체제의 보안유지기법](https://github.com/ShinDajeong/TIL/blob/main/Operating%20System/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EC%9D%98%20%EB%B3%B4%EC%95%88%EC%9C%A0%EC%A7%80%EA%B8%B0%EB%B2%95.md)
 
 #### Algorithm
 
