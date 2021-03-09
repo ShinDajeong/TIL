@@ -35,3 +35,4 @@ TIL : Today I Learned 💻📚
 - [PROG_42842_카펫](https://github.com/ShinDajeong/TIL/blob/main/Algorithm/PROG_42842_%EC%B9%B4%ED%8E%AB.java)
 - [BOJ_20055_컨베이어벨트위의로봇](https://github.com/ShinDajeong/TIL/blob/main/Algorithm/BOJ_20055_%EC%BB%A8%EB%B2%A0%EC%9D%B4%EC%96%B4%EB%B2%A8%ED%8A%B8%EC%9C%84%EC%9D%98%EB%A1%9C%EB%B4%87.java)
 - [BOJ_11725_트리의부모찾기](https://github.com/ShinDajeong/TIL/blob/main/Algorithm/BOJ_11725_%ED%8A%B8%EB%A6%AC%EC%9D%98%EB%B6%80%EB%AA%A8%EC%B0%BE%EA%B8%B0.java)
+- [BOJ_1405_미친로봇](https://github.com/ShinDajeong/TIL/blob/main/Algorithm/BOJ_1405_%EB%AF%B8%EC%B9%9C%EB%A1%9C%EB%B4%87.java)
