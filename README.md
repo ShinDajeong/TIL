@@ -22,6 +22,9 @@ TIL : Today I Learned 💻📚
 - [운영체제의 보안유지기법](https://github.com/ShinDajeong/TIL/blob/main/Operating%20System/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EC%9D%98%20%EB%B3%B4%EC%95%88%EC%9C%A0%EC%A7%80%EA%B8%B0%EB%B2%95.md)
 - [파일 관리](https://github.com/ShinDajeong/TIL/blob/main/Operating%20System/%ED%8C%8C%EC%9D%BC%20%EA%B4%80%EB%A6%AC.md)
 
+#### WEB
+- [Web Browser에 URL을 입력하면 무슨 일이 일어날까](https://github.com/ShinDajeong/TIL/blob/main/Web/Web%20Browser%EC%97%90%20URL%EC%9D%84%20%EC%9E%85%EB%A0%A5%ED%95%98%EB%A9%B4%20%EB%AC%B4%EC%8A%A8%20%EC%9D%BC%EC%9D%B4%20%EC%9D%BC%EC%96%B4%EB%82%A0%EA%B9%8C.md)
+
 #### Algorithm
 
 - [BOJ 10816 숫자카드2](https://github.com/ShinDajeong/TIL/blob/main/Algorithm/BOJ_10816_%EC%88%AB%EC%9E%90%EC%B9%B4%EB%93%9C2.java)
