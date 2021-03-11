@@ -40,3 +40,4 @@ TIL : Today I Learned 💻📚
 - [BOJ_20055_컨베이어벨트위의로봇](https://github.com/ShinDajeong/TIL/blob/main/Algorithm/BOJ_20055_%EC%BB%A8%EB%B2%A0%EC%9D%B4%EC%96%B4%EB%B2%A8%ED%8A%B8%EC%9C%84%EC%9D%98%EB%A1%9C%EB%B4%87.java)
 - [BOJ_11725_트리의부모찾기](https://github.com/ShinDajeong/TIL/blob/main/Algorithm/BOJ_11725_%ED%8A%B8%EB%A6%AC%EC%9D%98%EB%B6%80%EB%AA%A8%EC%B0%BE%EA%B8%B0.java)
 - [BOJ_1405_미친로봇](https://github.com/ShinDajeong/TIL/blob/main/Algorithm/BOJ_1405_%EB%AF%B8%EC%B9%9C%EB%A1%9C%EB%B4%87.java)
+- [BOJ_20057_마법사상어와 토네이도](https://github.com/ShinDajeong/TIL/blob/main/Algorithm/BOJ_20057_%EB%A7%88%EB%B2%95%EC%82%AC%EC%83%81%EC%96%B4%EC%99%80%ED%86%A0%EB%84%A4%EC%9D%B4%EB%8F%84.java)
